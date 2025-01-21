@@ -55,7 +55,7 @@ Ensure the following are installed on your system:
 
 #### 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-username>/fitness-tracker.git  
+   git clone https://github.com/aadil1625/fitness-tracker.git  
    cd fitness-tracker  
    ```  
 
